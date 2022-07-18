@@ -1,10 +1,10 @@
 # Tableau Assignments
 
-Tableau Assignment_1 : was completed on the Tableau Escape the Room page
+**Tableau Assignment_1** : was completed on the Tableau Escape the Room page
 
-Tableau Assignment_2 : https://public.tableau.com/app/profile/i.lknur.z.elik/viz/Tableau_Assignment_2_Dashboard/MyThirdDashboard
+**Tableau Assignment_2** : https://public.tableau.com/app/profile/i.lknur.z.elik/viz/Tableau_Assignment_2_Dashboard/MyThirdDashboard
 
-Tableau Assignment_3 :
+Tableau Assignment_2 :
 ---------------------
 
 # Tableau Projects
