@@ -12,4 +12,6 @@ Tableau Assignment_3 : https://public.tableau.com/app/profile/i.lknur.z.elik/viz
 
 Tableau Project_1 : https://public.tableau.com/app/profile/i.lknur.z.elik/viz/Tableau_Project_17July/17-Absolutedifferenceinaveragetransactionvaluebetweendomesticandinternational
 
-Tableau Project_2 :
+Tableau Project_2 : Covid_19 Dashboard Project was completed on 25th of July 2022 and it was published on Tableau Public and a Google Site was created contains this dashboard. Related links were given below:
+  Tableau public : https://public.tableau.com/app/profile/i.lknur.z.elik/viz/Tableau_Covid19_Project_22July/Dashboard1#1
+  Google site : https://sites.google.com/view/global-covid-19-cases/ana-sayfa
